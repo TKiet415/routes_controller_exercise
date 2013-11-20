@@ -1,3 +1,109 @@
+
+Listing users
+
+Name	Job title
+Brian Pham	Mid-level Developer	Show	Edit	Destroy
+Margarete Harvey	Dynamic Branding Analyst	Show	Edit	Destroy
+Ms. Miracle Funk	Corporate Paradigm Technician	Show	Edit	Destroy
+Jasen Kulas	Principal Applications Planner	Show	Edit	Destroy
+Mrs. Lottie Hilll	Direct Brand Facilitator	Show	Edit	Destroy
+Brook Lynch	Chief Response Associate	Show	Edit	Destroy
+Lavada Aufderhar	Legacy Data Administrator	Show	Edit	Destroy
+Ericka Zieme	International Directives Executive	Show	Edit	Destroy
+Reece Koelpin	Chief Factors Agent	Show	Edit	Destroy
+Vincenzo Wolff	Forward Optimization Analyst	Show	Edit	Destroy
+Afton Lind	Product Markets Director	Show	Edit	Destroy
+Alice Brakus	Corporate Accounts Officer	Show	Edit	Destroy
+Lisette Upton	Dynamic Security Analyst	Show	Edit	Destroy
+Mekhi Hayes	Future Configuration Officer	Show	Edit	Destroy
+Jewell Bosco	Internal Implementation Orchestrator	Show	Edit	Destroy
+Nasir Pfannerstill	Customer Metrics Producer	Show	Edit	Destroy
+Cameron Hodkiewicz	Dynamic Tactics Designer	Show	Edit	Destroy
+Ramona McLaughlin	District Accountability Orchestrator	Show	Edit	Destroy
+Zachery Jerde	National Paradigm Liason	Show	Edit	Destroy
+Alice Reinger	Chief Response Developer	Show	Edit	Destroy
+Francisca Paucek	Senior Communications Supervisor	Show	Edit	Destroy
+Jaida Larkin	Central Creative Assistant	Show	Edit	Destroy
+Phyllis Doyle	International Quality Associate	Show	Edit	Destroy
+Rodolfo Zemlak	Internal Security Agent	Show	Edit	Destroy
+Savion Hane	District Quality Agent	Show	Edit	Destroy
+Kamryn Donnelly	Human Research Technician	Show	Edit	Destroy
+Shanna Cartwright PhD	Future Creative Orchestrator	Show	Edit	Destroy
+Katherine Hahn	Customer Group Assistant	Show	Edit	Destroy
+Frederic Kemmer	Global Functionality Strategist	Show	Edit	Destroy
+Trent Jacobson	Human Division Designer	Show	Edit	Destroy
+Bethany Kuhn	Direct Data Coordinator	Show	Edit	Destroy
+Mandy McGlynn	Chief Identity Coordinator	Show	Edit	Destroy
+Ms. Felicita Wolff	Dynamic Group Administrator	Show	Edit	Destroy
+Emely Franecki III	Central Research Technician	Show	Edit	Destroy
+Reyna Braun	Dynamic Directives Coordinator	Show	Edit	Destroy
+Rhea Torp	Central Functionality Director	Show	Edit	Destroy
+Carol Weissnat	Lead Operations Officer	Show	Edit	Destroy
+Bret Fay	Principal Functionality Executive	Show	Edit	Destroy
+Trudie Nicolas	Product Accountability Representative	Show	Edit	Destroy
+Ms. Arnaldo Rogahn	District Interactions Strategist	Show	Edit	Destroy
+Alena Bernhard	Lead Security Director	Show	Edit	Destroy
+Ena Morissette	International Response Specialist	Show	Edit	Destroy
+Pearlie Jaskolski	Regional Security Planner	Show	Edit	Destroy
+Ressie Ernser	Principal Group Planner	Show	Edit	Destroy
+Virgie Feest	Senior Group Executive	Show	Edit	Destroy
+Torrey Ernser MD	Global Research Architect	Show	Edit	Destroy
+Ressie Turner	Legacy Infrastructure Strategist	Show	Edit	Destroy
+Jaqueline Lemke	Human Paradigm Engineer	Show	Edit	Destroy
+Jimmy DuBuque	Direct Operations Planner	Show	Edit	Destroy
+Mrs. Jaydon Huel	Central Data Director	Show	Edit	Destroy
+Nikolas Kirlin	Human Paradigm Representative	Show	Edit	Destroy
+Adele Crooks	Future Metrics Manager	Show	Edit	Destroy
+Herta Bosco I	International Functionality Supervisor	Show	Edit	Destroy
+Belle Bednar PhD	Principal Markets Planner	Show	Edit	Destroy
+Marvin Schiller	Future Functionality Assistant	Show	Edit	Destroy
+Izabella Haley II	Internal Paradigm Designer	Show	Edit	Destroy
+Presley Miller	Principal Operations Producer	Show	Edit	Destroy
+Jordane Rodriguez	Senior Infrastructure Producer	Show	Edit	Destroy
+Erica Paucek	Regional Infrastructure Engineer	Show	Edit	Destroy
+Christy Steuber	International Data Representative	Show	Edit	Destroy
+Tess Goldner III	Chief Configuration Coordinator	Show	Edit	Destroy
+Frederic Bode	Forward Applications Planner	Show	Edit	Destroy
+Hiram Ratke DDS	Senior Mobility Consultant	Show	Edit	Destroy
+Justice Lehner	National Division Associate	Show	Edit	Destroy
+Mrs. Freddie Ferry	District Usability Director	Show	Edit	Destroy
+Abigale Hilll III	Chief Operations Agent	Show	Edit	Destroy
+Christiana Johns	Regional Assurance Strategist	Show	Edit	Destroy
+Cara Macejkovic	Internal Paradigm Designer	Show	Edit	Destroy
+Ethelyn Halvorson DDS	Customer Assurance Orchestrator	Show	Edit	Destroy
+Jamil Altenwerth	Central Operations Specialist	Show	Edit	Destroy
+Jamel Stroman	Regional Operations Analyst	Show	Edit	Destroy
+Modesto Bode	Legacy Interactions Planner	Show	Edit	Destroy
+Garnett White	Senior Research Technician	Show	Edit	Destroy
+Althea Nader	Global Communications Orchestrator	Show	Edit	Destroy
+Mrs. Retta Herman	Legacy Configuration Director	Show	Edit	Destroy
+Enrico Kautzer	Legacy Interactions Producer	Show	Edit	Destroy
+Salvatore Hessel	Global Applications Associate	Show	Edit	Destroy
+Gideon Price	Legacy Applications Orchestrator	Show	Edit	Destroy
+Bethel Wilderman	Chief Paradigm Administrator	Show	Edit	Destroy
+Isidro Daugherty	Lead Data Technician	Show	Edit	Destroy
+Corrine Toy	Investor Mobility Assistant	Show	Edit	Destroy
+Harley Dickens	Dynamic Division Orchestrator	Show	Edit	Destroy
+Modesto Corkery	Dynamic Factors Coordinator	Show	Edit	Destroy
+Angie Mueller	Chief Optimization Developer	Show	Edit	Destroy
+Rachael Williamson DVM	Regional Infrastructure Orchestrator	Show	Edit	Destroy
+Triston Leuschke DVM	International Branding Director	Show	Edit	Destroy
+Esperanza Kohler	Human Data Architect	Show	Edit	Destroy
+Freeman Shanahan	Human Functionality Strategist	Show	Edit	Destroy
+Margarett Cassin	Direct Communications Orchestrator	Show	Edit	Destroy
+Alessandra Treutel	Customer Quality Agent	Show	Edit	Destroy
+Giles Carroll	Product Program Orchestrator	Show	Edit	Destroy
+Briana Toy	Central Solutions Technician	Show	Edit	Destroy
+Kenneth Corkery	Customer Factors Developer	Show	Edit	Destroy
+Maximillia DuBuque	National Branding Supervisor	Show	Edit	Destroy
+Jannie Gutmann	Dynamic Web Administrator	Show	Edit	Destroy
+Daron Sanford MD	Forward Quality Supervisor	Show	Edit	Destroy
+Lewis Satterfield	Investor Brand Orchestrator	Show	Edit	Destroy
+Samir Pouros	Corporate Program Designer	Show	Edit	Destroy
+Imelda Cassin	Lead Assurance Technician	Show	Edit	Destroy
+Johan Morar	Future Branding Strategist	Show	Edit	Destroy
+Margaret Friesen	Dynamic Functionality Technician	Show	Edit	Destroy
+
 # Routes, Controllers & Views Oh My
 
 ## What?
